@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle" >
+
+    <!-- estilo para fundo da tela -->
+    <gradient
+        android:endColor="@color/back_gradiente_fim"
+        android:gradientRadius="150"
+        android:startColor="@color/back_gradiente_inicio"
+        android:type="radial" />
+
+</shape>

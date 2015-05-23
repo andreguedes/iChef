@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">iChef</string>
+    <string name="bem_vindo">Bem-vindo!</string>
+    <string name="mao_na_massa">Olá iChef, pronto para por a mão na massa?</string>
+    <string name="login">Login</string>
+    <string name="btn_cadastrar">Cadastrar</string>
+    <string name="nome">nome</string>
+    <string name="email">e-mail</string>
+    <string name="senha">senha</string>
+    <string name="cadastrar">Não tem uma conta no iChef?</string>
+    <string name="cadastro">Cadastre-se já!</string>
+    <string name="cadastro_texto">Insira suas informações e coloque a mão na massa</string>
+    <string name="nao_cadastro">Ops! Não encontramos seu cadastro no iChef... Cadastre-se, é bem rápido!</string>
+    <string name="preencha">Preencha o campo corretamente</string>
+    <string name="usuario_cadastrado">Seu cadastro foi realizado, iChef </string>
+
+</resources>

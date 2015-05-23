@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="branco">#FFFFFF</color>
+    <color name="back_gradiente_inicio">#B21331</color>
+    <color name="back_gradiente_fim">#820D2A</color>
+    <color name="back_button_cadastro">#336600</color>
+    <color name="back_button_login">#380813</color>
+    <color name="back_button_login_pressed">#DE513E</color>
+</resources>
